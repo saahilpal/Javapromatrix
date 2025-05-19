@@ -1,2 +1,2 @@
 # Javapromatrix
-hey
+ calcuating matrix using java langauge 
